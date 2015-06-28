@@ -1,2 +1,4 @@
 # RailGirlsDaNang
-Ruby on rail
+**Hello Rail Girl Danang**
+*This is Sophie Nguyen*
+
